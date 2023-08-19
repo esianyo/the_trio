@@ -6,7 +6,7 @@
 
 > Constance Amatey
 
-> Esianyo Dzisenu (@esianyo)
+> Esianyo Dzisenu 
 
 _we commenced with conditions in python
 * August 18, 2023
